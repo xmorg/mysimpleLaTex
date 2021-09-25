@@ -1,0 +1,5 @@
+Linux/BSD distributions which support 32bit UEFI/Baytrail.
+------------------------------------
+Fedora Linux - great support, no hacking seemless
+Linux Mine - requires hacking, must hack your ISO image with a custom EFI ISO off the web.
+OpenBSD - hard to install but boots without hacking.
